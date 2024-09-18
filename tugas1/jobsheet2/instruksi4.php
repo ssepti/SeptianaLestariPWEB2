@@ -23,7 +23,7 @@ class Mahasiswa4 extends Pengguna2 {
     }
 }
 $dosen4 = new Dosen4("septiana");
-echo $dosen1->aksesFitur();
+echo $dosen4->aksesFitur();
 echo "<br>";
 $mahasiswa1 = new Mahasiswa4("Dedi");
 echo $mahasiswa1->aksesFitur();
